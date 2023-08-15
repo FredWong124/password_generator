@@ -17,7 +17,7 @@ Numbers : 0 - 9
 
 Symbols : !#$%&()*+ 
 
-## How to use
+## How to Install & Use
 Go to https://github.com/FredWong124/password_generator/blob/main/PWgenerator%20.exe
 
 Down load raw file "PWgenerator.exe"
